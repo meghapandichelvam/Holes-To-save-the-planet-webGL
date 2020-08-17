@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Holes to save the planet",
+"productVersion": "0.1",
+"dataUrl": "WebGL new.data.unityweb",
+"wasmCodeUrl": "WebGL new.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL new.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
